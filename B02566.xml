@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of all the goldsmiths in England, out of London. By reason of a clause in an act of Parliament, made in the 8th and 9th year of his Majesty's reign; entituled, An act for encouraging bringing in wrought plate to be coined. The whole clause is as followeth.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02566</idno>
+            <idno type="STC">Wing C877</idno>
+            <idno type="STC">ESTC R170935</idno>
+            <idno type="EEBO-CITATION">52211895</idno>
+            <idno type="OCLC">ocm 52211895</idno>
+            <idno type="VID">175465</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02566)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175465)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2738:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of all the goldsmiths in England, out of London. By reason of a clause in an act of Parliament, made in the 8th and 9th year of his Majesty's reign; entituled, An act for encouraging bringing in wrought plate to be coined. The whole clause is as followeth.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1697]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Suggested publication data from Wing.</note>
+                  <note>Imperfect: cropped at margin with some loss of text</note>
+                  <note>Reproduction of the original in the Lincoln's Inn Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Gold industry --  England --  Early works to 1800.</term>
+               <term>Goldsmiths --  England --  Early works to 1800.</term>
+               <term>Coinage --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:175465:1" rendition="simple:additions"/>
+            <head>THE CASE OF ALL THE <hi>
+                  <hi>Goldſmiths in England,</hi> Out of</hi> London.</head>
+            <p>By Reaſon of a Clauſe in an Act of Parliament, made in the 8th and 9th Year of His Majeſty's Reign; Entituled, <hi>An Act for Encouraging bringing in Wrought Plate to be Coined.</hi> The whole Clauſe is as followeth.</p>
+            <p>AND whereas it may reaſonably be ſuſpected that part of the Silver Coins of this Realm hath been, by Perſons regarding their own Private Gain more than the Publick Good, Molten and Converted into Veſſels of Silver or other Manufactured Plate, which Crime hath been the more eaſily Perpetrated by them, in regard the Goldſmiths or others, Workers of Plate, by the former Laws and Statutes of this Realm, are not obliged to make their Plate of Finer Silver than the Sterling or Standard Ordained for the Moneys of this Realm: Be it therefore Enacted, by the Authrity aforeſaid, That from and after the Five and twentieth Day of <hi>March,</hi> One thouſad ſix hundred ninety ſeven, no Goldſmith, Silverſmith or other Perſon whatſoever, ſhall Work or Make, or cauſed to be Wrought or Made, any Silver Veſſel, Plate or Manufacture of Silver leſs in Fineneſs than that of Eleven Ounces and Ten Peny Weight of Fine Silver in every Pound Troy, nor put to Sale<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Exchange or Sell any Silver Veſſels, Plate or Manufacture of Silver made after the ſaid Five and twentieth Day of <hi>March</hi> (unleſs it be Silver Wyre, or ſuch things, a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in reſpect of their ſmallneſs, are not capable of receiving a Mark) until ſuch time a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſuch Veſſel, Plate or Manufactured Silver ſhall be Marked as followeth (that is to ſay) with the Workers Mark, to be expreſſed by the Two Firſt Letters of his Sirname, th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Marks of the Myſtery or Craft of the Goldſmiths, which inſtead, of the Leopard Head and the Lyon, ſhall for this Plate be the Figure of a Lyons Head eraſed, an<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Figure of a Woman, commonly cald <hi>Britannia,</hi> and a diſtinct variable Mark to be uſed by the Warden of the ſaid Myſtery, to denote the Year in which ſuch Plat<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is made, upon Pain that all ſuch Silver Veſſels, Plate or other Manufactured Silve<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which ſhall be Made, Expoſed to Sale, Sold or Exchanged contrary to this Act, o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Value thereof, ſhall be Forfeited, the one half thereof, to the King, and th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> other half thereof to ſuch Perſon or Perſons that will Seize or Sue for the ſame, t<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be Recovered by Action, Bill, Suit or Information in any Court of Record, where in no Eſſoign, Protection, Wager of Law, or more than one Imparlance ſhall b<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> admitted; And if any Silverſmith, Goldſmith or other Perſon ſhall after the ſai<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Five and twentieth Day of <hi>March</hi> make any Silver Veſſels, Plate or Manufacture Silver contrary to this Act, and the ſame ſhall be Touched, Marked or Allowed fo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Good by the Wardens or Maſters of the ſaid Myſtery, or thoſe Authorized <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Imployed by them for the Eſſaying and Marking of Plate, and if in the ſame the<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſhall be found any Falſhood or Deceit, then the Wardens and Corporation of th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Myſtery for the time being, ſhall Forfeit and Pay the Value of the Plate ſo decei<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> fully Marked, the one half thereof to the King, and the other half to any Perfo<gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> or Perſons that ſhall Buy the ſame, and be Grieved thereby, to be Recovered, as afor<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſaid; Any thing in this or any former Act or Acts of Parliament contained, any other Order or Proviſion heretofore made to the contray notwithſtanding.</p>
+            <pb n="2" facs="tcp:175465:2" rendition="simple:additions"/>
+            <p>In the aboveſaid Clauſe there are two things which we apprehend to be detrimen<g ref="char:EOLhyphen"/>tal to the Nation in general, as well as grievous to us in particular, and that it doth not at all prevent the melting down the Silver Coyn of this Kingdom.</p>
+            <p n="1">1. For if any Perſon ſhould be ſo Ill-diſpoſed, how eaſiy is it for him to melt down the Coyn, and make it into Plate, for after 'tis melted, he may either refine it him<g ref="char:EOLhyphen"/>ſelf, or get a Refiner to do it for him, for the Price the new Standard is now advanced to, will pay the Charge, ſo that the altering the Standard for Plate, doth not at all prevent the melting down the Silver Coyn.</p>
+            <p n="2">2. In the next place, this new Standard is detrimental to the whole Kingdom, for it leſſens the Bullion a 30th part, ſo that there is one thouſand Pound in Thirty leſs then there was before the Standard was altered. It is alſo at the leaſt 10 <hi>per Cent.</hi> worſe in the Waring than the old Standard, by reaſon of its Softneſs, for in the common Uſe of it, it will wear away inſenſibly, which muſt needs be a great loſs to the Nation yearly.</p>
+            <p n="3">3. It is very detrimental to all the Workers in Silver in <hi>England,</hi> except <hi>London,</hi> for by this Clauſe all manner of wrought Plate is Forfeitable which hath not the <hi>Britannia</hi> Mark on it; which Mark the Londoners appropriate to themſelves, there<g ref="char:EOLhyphen"/>fore we dare not uſe it on our Plate, which we make without incurring the Penalty of Law; ſo that our Condition is very deplorable, for if we do conform to the Act in relation to its Fineneſs, yet we are liable to a Seizure for want of the Mark, as the Clauſe in the Act particularly ſets forth, and if we ſit ſtill, and work not at all, we and our Families muſt inevitably periſh. We do not think the Par<g ref="char:EOLhyphen"/>liament intended our Ruine when this Clauſe was inſerted, but rather that it was ſurruptitiouſly obtained for the private intreſt of a few, for we prove above, that it doth not prevent the melting down the Coyn, neither is it any way advantagi<g ref="char:EOLhyphen"/>ous to the Nation in any other reſpect, but on the contrary prejudicial, for ſince the Clauſe was obtained, the Workers in <hi>London</hi> have advanced the Price of their Work one Third more than it was before, knowing we were not able to right our ſelves.</p>
+            <p>All theſe things being put together, we hope the Parliament in their Wiſdom will ſee it neceſſary to lay this new Standard aſide, and reſtore the old of 11 <hi>oz.</hi> 2 <hi>dwt.</hi> which was both beautiful and ſerviceable, and above 30 <hi>per Cent.</hi> Cheaper to the Nation, and if the Parliament will give leave for a Bill to be brought in according to the Prayer of our petition, no doubt but they may find more effectual Ways to prevent the melting down of the Coyn.</p>
+            <p>Why may there not be diſtinct touches allowed for ſome eminent Places in this Kingdome? For in <hi>Henry</hi> the 6ths time, there was an Act to that purpoſe.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
